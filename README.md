@@ -2,4 +2,6 @@
 
 ##Screenshot
 
-![Screenshot]<img src="https://user-images.githubusercontent.com/99422185/222162310-a49c078e-427a-4cf7-a8f6-e20898bd759e.png" width="100" height="100">
+![Screenshot]
+
+<img src="https://user-images.githubusercontent.com/99422185/222162310-a49c078e-427a-4cf7-a8f6-e20898bd759e.png" width="200" height="200">
